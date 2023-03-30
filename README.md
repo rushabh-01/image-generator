@@ -1,5 +1,26 @@
 # Image-Generator
 
+<br>
+
+<p align="center">
+<h4 align="center">Open AI Image Generator</h4>
+  <img src="public\image.png"  title="Landing Page">
+  <br>
+</p>
+
+<br>
+
+## Technologies used in this project
+
+1. Javascript
+2. Css
+3. Node js
+
+
+## Github link
+
+https://github.com/rushabh-01/image-generator
+
 ### How to Run this project
 
 1. Get api key from open ai
