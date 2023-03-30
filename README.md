@@ -1,4 +1,4 @@
-# image-generator
+# Image-Generator
 
 ### How to Run this project
 
